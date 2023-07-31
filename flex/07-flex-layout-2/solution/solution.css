@@ -70,7 +70,7 @@ a {
 }
 
 .container {
-  padding: 32px;
+  padding: 100px;
   display: flex;
   flex-wrap: wrap;
 }
